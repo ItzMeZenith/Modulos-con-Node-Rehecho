@@ -1,0 +1,7 @@
+const uno = require('./uno')
+const dos = require('./dos')
+const tres = require('./tres')
+const cuatro = require('./cuatro')
+const cinco = require('./cinco')
+const seis = require('./seis')
+const siete = require('./siete')

@@ -1,0 +1,23 @@
+{
+  "name": "modulos-con-node",
+  "version": "1.0.0",
+  "description": "Primer TP de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "ej1": "node uno.js",
+    "ej2": "node dos.js",
+    "ej3": "node tres.js",
+    "ej4": "node cuatro.js",
+    "ej5": "node cinco.js",
+    "ej6": "node seis.js",
+    "ej7": "node siete.js"
+  },
+  "author": "JSS",
+  "license": "ISC",
+  "dependencies": {
+    "country-to-currency": "^2.0.2",
+    "modules": "^0.4.0"
+  }
+}
